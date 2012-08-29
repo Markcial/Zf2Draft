@@ -1,0 +1,38 @@
+{
+    "hash": "b58e7d7198da5cd1d068a7e2d2341514",
+    "packages": [
+        {
+            "package": "doctrine/common",
+            "version": "2.2.2"
+        },
+        {
+            "package": "twig/twig",
+            "version": "v1.9.2"
+        },
+        {
+            "package": "zendframework/zendframework",
+            "version": "dev-master",
+            "alias-pretty-version": "2.0.x-dev",
+            "alias-version": "2.0.9999999.9999999-dev"
+        },
+        {
+            "package": "zendframework/zendframework",
+            "version": "dev-master",
+            "source-reference": "a59928a3a37e420193939f9799ece27fb39bb84e"
+        },
+        {
+            "package": "zf-commons/zfc-twig",
+            "version": "dev-master",
+            "source-reference": "ef044219a762af08cf372ff6cbf55c84a182e727"
+        }
+    ],
+    "packages-dev": null,
+    "aliases": [
+
+    ],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "zendframework/zendframework": 20,
+        "zf-commons/zfc-twig": 20
+    }
+}
